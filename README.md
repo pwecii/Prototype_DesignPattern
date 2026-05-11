@@ -1,4 +1,4 @@
-# Prototype_DesignPattern
+# Document Prototype Design Pattern
 
 # UML DIAGRAM
 
